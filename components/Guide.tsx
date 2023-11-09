@@ -9,15 +9,13 @@ const Guide = () => {
         src="/camp.svg" 
         alt="camp" 
         width={50} 
-        height={50} />
-        <p className="uppercase regular-18 -mt-1 mb-3 text-green-50">
-          we are here for you
-        </p>
+        height={50}
+        className="absolute left-15" />
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="capitalize bold-40 lg:bold-64 xl:max-w-[390px]">
-            guide you to easy path
+          <h2 className="capitalize bold-40 mt-9 lg:bold-64 xl:max-w-[390px]">
+            we guide you to an easy path
           </h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">
+          <p className="flexCenter regular-16 text-gray-30 xl:max-w-[520px]">
             With the TreehouseTreasures app, you'll never wander aimlessly
             again. Our app comes to the rescue with offline maps, ensuring you
             stay on the right path even when there's no internet signal amidst
