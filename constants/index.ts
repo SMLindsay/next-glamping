@@ -51,14 +51,14 @@ export const NAV_LINKS = [
         'About TreehouseTreasures',
         'Press Releases',
         'Environment',
-        'Jobs',
+        'Careers',
         'Privacy Policy',
         'Contact Us',
       ],
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking TreehouseTreasures', 'Treehouse Treasures kinthill'],
+      links: ['Climbing with TreehouseTreasures', 'Hiking with TreehouseTreasures', 'TreehouseTreasures'],
     },
   ];
   
